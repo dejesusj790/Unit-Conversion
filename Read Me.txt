@@ -1,0 +1,17 @@
+Welcome to Unit Convert Practice!
+
+The goal of this program is to help you understand the skill of converting units because it's a fundamental skill in Chemistry.
+
+If you were to press any of the Questions 1-4, a question will appear in the textbox below "Question:" and you will enter your answer in the green submission box below, using the pink "Enter" button to submit your answer. You will recieve feedback on your input in the textbox (which is scrollable).
+
+Question 1, will ask you to figured out how much NaCl is needed in a randomized amount of solution
+
+Question 2, will ask you to convert from different SI units to the nearest decimal place
+
+Question 3, is similar to Question 2 where it will ask you to convert from different SI units but formating your answer using the proper amount of significant figures.
+
+Question 4, is a more intensive verion of Question 3 but instead of using SI units, it asks you to convert between more complex units. Additionally, the correct amount of significant figures will be more difficult to determine. 
+
+Question Export, will prompt you to enter which Question 1-4 to export 10 randomized version of said question into a text file into the directory (the folder where the program is stored). Two files will be created, "Practice Problems" which are the question and "Answer Key" which contain the answers to each of the question, in case you get stuck.
+
+About, will open a info box that will tell you a little more about the program and the individuals who were paramount in the creation of Unit Convert Practice.
